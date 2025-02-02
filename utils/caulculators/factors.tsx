@@ -296,7 +296,7 @@ export default function getFactors({ fitness_goal }: { fitness_goal: string }): 
   return (
     <div className="flex flex-col gap-6 w-full">
       <h3 className="text-xl font-semibold">
-        Faktorët për të humbur peshë
+        Factors for losing weight
       </h3>
 
       {/* chart */}
@@ -353,7 +353,7 @@ export default function getFactors({ fitness_goal }: { fitness_goal: string }): 
               Ushqyerja - 70%
             </h3>
             <p>
-              Ushqyerja luan rolin më të rëndësishëm në humbjen e peshës. Rreth 70% e suksesit tuaj në djegien e yndyrës dhe humbjen e peshës mund t'i atribuohet ushqimit që konsumoni. Përqendrohuni në krijimin e një deficiti kalorish duke konsumuar ushqime të plota të pasura me lëndë ushqyese që janë të ulëta në sheqerna të rafinuar dhe yndyrna të ngopura. Theksoni një dietë të ekuilibruar të pasur me proteina pa yndyrë, yndyrna të shëndetshme, karbohidrate komplekse dhe një shumëllojshmëri frutash dhe perimesh. Kontrolli i porcioneve dhe ngrënia e kujdesshme janë komponentët kryesorë të një plani të suksesshëm të ushqyerjes.
+              Nutrition plays the most important role in weight loss. About 70% of your success in burning fat and losing weight can be attributed to the food you eat. Focus on creating a calorie deficit by eating nutrient-dense whole foods that are low in refined sugars and saturated fats. Emphasize a balanced diet rich in lean protein, healthy fats, complex carbohydrates, and a variety of fruits and vegetables. Portion control and mindful eating are key components of a successful nutrition plan.
             </p>
           </div>
         </div>
@@ -364,9 +364,9 @@ export default function getFactors({ fitness_goal }: { fitness_goal: string }): 
             <div className="h-full w-0.5 bg-gradient-to-b from-emerald-300 mx-auto" />
           </div>
           <div className="flex flex-col gap-2">
-            <h3 className="text-lg font-medium">Aktiviteti fizik - 15%</h3>
+            <h3 className="text-lg font-medium">Physical activity- 15%</h3>
             <p>
-              Aktiviteti i rregullt fizik është thelbësor për djegien e kalorive dhe rritjen e shpenzimit të përgjithshëm të energjisë. Përafërsisht 15% e suksesit të humbjes së peshës i atribuohet ushtrimeve. Përfshini një përzierje ushtrimesh kardiovaskulare, të tilla si vrapimi, çiklizmi ose noti, me ushtrime të stërvitjes së forcës për të ndërtuar masë muskulore.
+              Regular physical activity is essential for burning calories and increasing overall energy expenditure. Approximately 15% of weight loss success is attributed to exercise. Include a mix of cardiovascular exercise, such as running, cycling, or swimming, with strength training exercises to build muscle mass.
             </p>
           </div>
         </div>
@@ -377,9 +377,9 @@ export default function getFactors({ fitness_goal }: { fitness_goal: string }): 
             <div className="h-full w-0.5 bg-gradient-to-b from-sky-300 mx-auto" />
           </div>
           <div className="flex flex-col gap-2">
-            <h3 className="text-lg font-medium">Pushimi - 15%</h3>
+            <h3 className="text-lg font-medium">holiday - 15%</h3>
             <p>
-              Si gjumi ashtu edhe menaxhimi i stresit luajnë një rol vendimtar në rregullimin e hormoneve që ndikojnë në oreksin dhe metabolizmin. Përafërsisht 10% e humbjes së peshës mund të ndikohet nga gjumi adekuat dhe teknikat efektive të menaxhimit të stresit. Synoni për 7-9 orë gjumë cilësor çdo natë dhe praktikoni teknika të reduktimit të stresit si meditimi, joga ose ushtrime të frymëmarrjes së thellë.
+              Both sleep and stress management play a crucial role in regulating hormones that affect appetite and metabolism. Approximately 10% of weight loss can be attributed to adequate sleep and effective stress management techniques. Aim for 7-9 hours of quality sleep each night and practice stress reduction techniques such as meditation, yoga, or deep breathing exercises.
             </p>
           </div>
         </div>
